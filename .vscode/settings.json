@@ -1,0 +1,17 @@
+{
+    "files.watcherExclude": {
+        "**/CheXpert-v1.0-small/**": true,
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true
+    },
+    "search.exclude": {
+        "**/CheXpert-v1.0-small/**": true
+    },
+    "files.exclude": {
+        "**/CheXpert-v1.0-small/**": false
+    },
+    "python.analysis.exclude": [
+        "**/CheXpert-v1.0-small/**"
+    ]
+}
