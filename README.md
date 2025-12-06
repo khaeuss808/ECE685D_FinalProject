@@ -8,6 +8,7 @@ This project explores cross-modal retrieval and text-conditioned image generatio
 * A vision encoder (ResNet-50)
 * A clinical text encoder (BioClinicalBERT)
 * A shared embedding space trained with contrastive loss (CLIP-style)  
+
 The learned representation supports:
 1. Image → Text retrieval
 2. Text → Image retrieval
